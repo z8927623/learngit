@@ -6,4 +6,5 @@ My lover is.
 My School is.
 My Name is.
 
+I’m doing…finished!
 
