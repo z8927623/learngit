@@ -8,3 +8,5 @@ My Name is.
 呵呵
 哈哈
 testbranch
+
+Creating a new branch is quick AND simple.
