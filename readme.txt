@@ -5,15 +5,5 @@ It’s my first time using git.
 My lover is.
 My School is.
 My Name is.
-呵呵
-哈哈
-testbranch
 
-1111
-
-3333
-
-4444
-
-555
 
