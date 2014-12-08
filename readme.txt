@@ -9,6 +9,5 @@ My Name is.
 哈哈
 testbranch
 
-Creating a new branch is quick and simple.
+Creating a new branch is quick & simple.
 
-2345
