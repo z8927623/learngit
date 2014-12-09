@@ -8,5 +8,5 @@ My Name is.
 
 I’m doing…finished!
 
-doing sub work in nowDoing
+Finished doing sub work in nowDoing
 
