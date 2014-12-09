@@ -9,4 +9,5 @@ My Name is.
 I’m doing…finished!
 
 Finished doing sub work in nowDoing
+doing some work in my macbook air
 
